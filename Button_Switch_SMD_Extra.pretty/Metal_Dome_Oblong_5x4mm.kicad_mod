@@ -61,9 +61,4 @@
       )
     )
   )
-  (model "${KIPRJMOD}/modules/packages3D/Button_Switch_SMD.3dshapes/Metal_Dome_Oval_5mm.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
-  )
 )
